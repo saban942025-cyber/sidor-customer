@@ -1,7 +1,7 @@
 {
-  "name": "sidor-customer-pwa-v8",
+  "name": "sidor-customer-pwa",
   "private": true,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,8 @@
   "dependencies": {
     "firebase": "^9.15.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.344.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
